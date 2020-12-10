@@ -1,0 +1,2 @@
+# forexmeta
+forex,fx
